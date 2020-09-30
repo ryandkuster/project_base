@@ -1,5 +1,2 @@
-/data/*
-/analysis/*
-!/analysis/track/
-!/data/track/
-desktop.ini
+/data/large_files/*
+/analysis/large_files/*

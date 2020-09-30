@@ -1,0 +1,1 @@
+The 'metadata' directory should store any non-sensitive files relating to the creation of the raw_data (e.g. molecular protocols, field study information, etc.) and should contain critical files such as DNA barcodes, sample-naming schemes.
